@@ -1,0 +1,1 @@
+Tambahkan PATH folder ini di Environment Variabel untuk mengakses Nlang dengan Command Prompt

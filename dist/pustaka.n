@@ -1,0 +1,3 @@
+Dari stdlib Masukkan *
+Tulis 'ini modul pustaka'
+;#Tulis('halo')

@@ -1,0 +1,15 @@
+#CONTOH PROGRAM GANJIL GENAP
+Masukkan pustaka
+
+gnp=''
+gnj=''
+x=BilBulat(Input('masukkan sesuatu:'))
+Untuk i Dalam Jangkauan(0,x) Lakukan
+	Jika i%2==0 Maka
+		gnp+=Sajak(i)+' '
+	LainJika i%2!=0 Maka
+		gnj+=Sajak(i)+' '
+Tulis(gnp)
+Tulis(gnj)
+Untuk i Dalam Jangkauan(0,5) Lakukan
+	Tulis('aaa ')
